@@ -4,7 +4,7 @@ A web scraper made with BeautifulSoup in python to collect data about any produc
 ## Description
 This web scraper is designed to pull crucial data about any product from the ecommerce website Flipkart. You can input the product name and if the search term is valid, the program will return a dataframe containing all the data.
 
-![Untitled design (7)](https://user-images.githubusercontent.com/106478752/187971100-71133751-58fa-44a2-b794-72d7ab85bca3.png)
+![Untitled design (16)](https://user-images.githubusercontent.com/106478752/189272913-bfcb393d-07a6-4e73-845a-85809fb107d8.png)
 
 By default, the number of search pages is limited to 50 but you can modify it to get as much data as you want. The data can later be processed according to the product specifications to make it ready for analysis.
 
